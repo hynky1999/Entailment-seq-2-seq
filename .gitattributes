@@ -1,0 +1,2 @@
+models/modelRNN.pt filter=lfs diff=lfs merge=lfs -text
+models/modelTrans.pt filter=lfs diff=lfs merge=lfs -text
